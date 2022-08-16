@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patikaOperatorler", "patikaOperatorler\patikaOperatorler.csproj", "{E5EAE4F9-AF40-4C82-8FEC-81E5D3916648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5EAE4F9-AF40-4C82-8FEC-81E5D3916648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5EAE4F9-AF40-4C82-8FEC-81E5D3916648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5EAE4F9-AF40-4C82-8FEC-81E5D3916648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5EAE4F9-AF40-4C82-8FEC-81E5D3916648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0840280D-300D-457C-BC51-924AEE3F45E8}
+	EndGlobalSection
+EndGlobal
